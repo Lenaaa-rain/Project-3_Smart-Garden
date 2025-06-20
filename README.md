@@ -8,13 +8,6 @@ Proyek ini merupakan bagian dari tugas akhir mata kuliah IoT Lanjutan yang bertu
 
 
 
-Team Members
-
-Kelompok 3 Teknik Informatika, Konsentrasi Computer Networking  
-Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang 2025
-
-
-
 Project Objectives
 
 - Mengembangkan sistem monitoring dan penyiraman tanaman otomatis berbasis ESP32.
