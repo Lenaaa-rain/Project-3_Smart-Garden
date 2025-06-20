@@ -13,12 +13,6 @@ Team Members
 Kelompok 3 Teknik Informatika, Konsentrasi Computer Networking  
 Institut Teknologi dan Bisnis Bina Sarana Global, Tangerang 2025
 
-- Alfa Hardinata Wibowo (1122140111)  
-- Michael Danielo Aruan (1122140118)  
-- Galang Nugraha (1122140117)  
-- M. Rafli Ardiansyah (1122140021)  
-- Tovik Nurrohman (1122140120)
-
 
 
 Project Objectives
